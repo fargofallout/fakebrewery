@@ -1,0 +1,55 @@
+
+homepage:
+	giant buttons as menu:
+		about (location, contact, etc)
+		faq
+		beers
+			beers on tap
+			all beers ever released
+		find our beer
+		events
+		blog
+
+	login link
+
+admin (depends on level of access)
+	add beer
+	change beers on tap
+	change password
+	add/remove users (only for super-admins?)
+	add items to faq
+
+
+
+databases:
+	users (allows for someone to login to add new beers, chnage beers on tap, etc.(?))
+		email
+		hashed password
+		date created
+		access level
+	beers
+		beer name
+		style
+		abv
+		ibus
+		gravity
+		serving glass
+		description
+		currently on tap
+		currently in crowlers
+		currently in bottles
+		created by
+	events
+		date
+		details
+		location
+		posted by
+	blog
+		date
+		text
+		posted by
+		category(?)
+	faq
+		question
+		answer
+

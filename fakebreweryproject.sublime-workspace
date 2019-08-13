@@ -1,0 +1,1221 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"fon",
+				"font-family\tproperty"
+			],
+			[
+				"align",
+				"text-align\tproperty"
+			],
+			[
+				"alin",
+				"align-content\tproperty"
+			],
+			[
+				"newpdu",
+				"new_project_due_timezone"
+			],
+			[
+				"newp",
+				"new_project_due_timezone"
+			],
+			[
+				"timezon",
+				"timezone"
+			],
+			[
+				"the",
+				"the_values"
+			],
+			[
+				"proj",
+				"project_dict"
+			],
+			[
+				"newprocm",
+				"new_project_cm"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"newpro",
+				"new_project"
+			],
+			[
+				"newprwind",
+				"new_project_window"
+			],
+			[
+				"newprowin",
+				"new_project_window"
+			],
+			[
+				"newprojwin",
+				"new_project_window"
+			],
+			[
+				"disp",
+				"display"
+			],
+			[
+				"new_",
+				"new_project_close"
+			],
+			[
+				"new_pr",
+				"new_project_button"
+			],
+			[
+				"rend",
+				"render_template"
+			],
+			[
+				"que",
+				"query"
+			],
+			[
+				"modi",
+				"modify_session"
+			],
+			[
+				"clienma",
+				"Clientmatter"
+			],
+			[
+				"displ",
+				"display_id"
+			],
+			[
+				"subm",
+				"submit_changes"
+			],
+			[
+				"aja",
+				"ajax_output"
+			],
+			[
+				"displa",
+				"display_dict"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"bord",
+				"border-collapse\tproperty"
+			],
+			[
+				"bor",
+				"border-collapse\tproperty"
+			],
+			[
+				"over",
+				"overflow\tproperty"
+			],
+			[
+				"matter",
+				"matter_number"
+			],
+			[
+				"gricol",
+				"grid-column-start\tproperty"
+			],
+			[
+				"overfl",
+				"overflow-y\tproperty"
+			],
+			[
+				"grid-temp",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"gri",
+				"grid-gap\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"font-s",
+				"font-style\tproperty"
+			],
+			[
+				"row",
+				"row_dict"
+			],
+			[
+				"ma",
+				"matter_number"
+			],
+			[
+				"clienn",
+				"client_number"
+			],
+			[
+				"CSR",
+				"CSRF_Token"
+			],
+			[
+				"oldpas",
+				"old_password"
+			],
+			[
+				"curr",
+				"current_email_address"
+			],
+			[
+				"userdat",
+				"Userdata"
+			],
+			[
+				"userda",
+				"user_email_address"
+			],
+			[
+				"winner",
+				"winner_2_id"
+			],
+			[
+				"pla",
+				"player_2"
+			],
+			[
+				"usern",
+				"username"
+			],
+			[
+				"frien",
+				"friendly_name_dict"
+			],
+			[
+				"PL",
+				"Player_Games"
+			],
+			[
+				"compa",
+				"comparison_value"
+			],
+			[
+				"dropd",
+				"dropdown-item"
+			],
+			[
+				"play",
+				"player_query"
+			],
+			[
+				"stat",
+				"stat_selected"
+			],
+			[
+				"playgam",
+				"Player_Games"
+			],
+			[
+				"st",
+				"stat_type_list"
+			],
+			[
+				"TEam",
+				"Team_Seasons"
+			],
+			[
+				"Player",
+				"Player_Games"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"fiel",
+				"field_goals_made"
+			],
+			[
+				"free",
+				"free_throws_attempted"
+			],
+			[
+				"box",
+				"box_score_url"
+			],
+			[
+				"gam",
+				"game"
+			],
+			[
+				"game",
+				"game_counter"
+			],
+			[
+				"status",
+				"status_code"
+			],
+			[
+				"num",
+				"num_games"
+			],
+			[
+				"player",
+				"player_dict"
+			],
+			[
+				"data",
+				"data_list"
+			],
+			[
+				"Team",
+				"Team_Season"
+			],
+			[
+				"new",
+				"new_query"
+			],
+			[
+				"Pla",
+				"Player_Games"
+			],
+			[
+				"Play",
+				"Player_Games"
+			],
+			[
+				"pl",
+				"player"
+			],
+			[
+				"check",
+				"Check_for_existing_player"
+			],
+			[
+				"this",
+				"this_query"
+			],
+			[
+				"curre",
+				"current_team"
+			],
+			[
+				"adv",
+				"advanced_list"
+			],
+			[
+				"ad",
+				"advanced_list"
+			],
+			[
+				"playerur",
+				"player_url"
+			],
+			[
+				"freethreore",
+				"free_throws_made_regex"
+			],
+			[
+				"playerbasi",
+				"player_basic_data_row_match"
+			],
+			[
+				"hom",
+				"home_team"
+			],
+			[
+				"query",
+				"query_result"
+			],
+			[
+				"winnin",
+				"winning_team"
+			],
+			[
+				"home",
+				"home_team_id"
+			],
+			[
+				"qu",
+				"query_result"
+			],
+			[
+				"quer",
+				"query_result"
+			],
+			[
+				"mon",
+				"monthly_dict"
+			],
+			[
+				"playf",
+				"playoff_game_as_list"
+			],
+			[
+				"away_team",
+				"away_team_url"
+			],
+			[
+				"boxsc",
+				"box_score"
+			],
+			[
+				"box_sco",
+				"box_score_text"
+			],
+			[
+				"url",
+				"url_parser"
+			],
+			[
+				"seas",
+				"season_url"
+			],
+			[
+				"templ",
+				"template_list"
+			],
+			[
+				"startin",
+				"starting_pos"
+			],
+			[
+				"sort",
+				"sort_template_list"
+			],
+			[
+				"star",
+				"starting_pos"
+			],
+			[
+				"fie",
+				"field_found"
+			],
+			[
+				"temp",
+				"template_list"
+			],
+			[
+				"canno",
+				"cannot_delete"
+			],
+			[
+				"create",
+				"create_base_dict"
+			],
+			[
+				"auth",
+				"author_id"
+			],
+			[
+				"user",
+				"Username"
+			],
+			[
+				"init_d",
+				"init_db_command"
+			],
+			[
+				"ini",
+				"init_db"
+			],
+			[
+				"from",
+				"from_mapping"
+			],
+			[
+				"combi",
+				"combined_url"
+			],
+			[
+				"Proj",
+				"Project_Manager_Backend"
+			],
+			[
+				"Proje",
+				"Project_Manager_Frontend"
+			],
+			[
+				"P",
+				"Project_Manager_Frontend"
+			],
+			[
+				"add",
+				"add_row"
+			],
+			[
+				"addro",
+				"add_row_connection"
+			],
+			[
+				"SQLite",
+				"SQLiteConnection"
+			],
+			[
+				"Data",
+				"Database"
+			],
+			[
+				"firs",
+				"first_launch"
+			],
+			[
+				"postnum",
+				"post_num"
+			],
+			[
+				"postnu",
+				"post_num"
+			],
+			[
+				"file",
+				"file_out"
+			],
+			[
+				"gamen",
+				"game_number"
+			],
+			[
+				"poi",
+				"point_dict"
+			],
+			[
+				"all",
+				"all_games_list"
+			],
+			[
+				"master",
+				"master_dict"
+			],
+			[
+				"mast",
+				"master_list"
+			],
+			[
+				"uni",
+				"unique_games_list"
+			],
+			[
+				"urlp",
+				"url_part_two"
+			],
+			[
+				"lit",
+				"list_item_list"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "fakebrewery/app.py",
+			"settings":
+			{
+				"buffer_size": 281,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "import flask"
+			}
+		},
+		{
+			"file": "fakebrewery/views/beers.py",
+			"settings":
+			{
+				"buffer_size": 168,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "fakebrewery/views/home.py",
+			"settings":
+			{
+				"buffer_size": 178,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "fakebrewery/templates/base.html",
+			"settings":
+			{
+				"buffer_size": 585,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "fakebrewery/templates/home/home.html",
+			"settings":
+			{
+				"buffer_size": 246,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "fakebrewery/templates/beers/beers.html",
+			"settings":
+			{
+				"buffer_size": 260,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/C#.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C#.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/C#.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"ProjectManager",
+					""
+				],
+				[
+					"ProjectManager",
+					"Run"
+				]
+			],
+			[
+				"ProjectManager",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 302.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pytho",
+				"Set Syntax: Python"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"cs",
+				"Set Syntax: CSS"
+			],
+			[
+				"sq",
+				"Set Syntax: SQL"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"c",
+				"Set Syntax: C#"
+			],
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"c#",
+				"Set Syntax: C#"
+			],
+			[
+				"buil",
+				"Build With: Python"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"package ",
+				"Package Control: Install Package"
+			],
+			[
+				"package sear",
+				"Package Control: Discover Packages"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			],
+			[
+				"plai",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"go",
+				"Set Syntax: Go"
+			],
+			[
+				"p",
+				"Set Syntax: Python"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"c+",
+				"Set Syntax: C++"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 120.0,
+		"history":
+		[
+			"install package",
+			"view.encoding()"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/vacha/Documents/Python/fakebrewery"
+	],
+	"file_history":
+	[
+		"/C/Users/vacha/Documents/Python/fakebrewery/fakebrewery/views/beers/beers.py",
+		"/C/Users/vacha/Documents/Python/fakebrewery/fakebrewery/views/home/home.py",
+		"/C/Users/vacha/Documents/Python/fakebrewery/fakebrewery/views/home.py",
+		"/C/Users/vacha/Google Drive/Python/FoosballPage/.gitignore",
+		"/C/Users/vacha/Google Drive/Python/foospage/foospage/home.py",
+		"/C/Users/vacha/AppData/Roaming/Sublime Merge/Local/app.py",
+		"/C/Users/vacha/AppData/Roaming/Sublime Merge/Local/Session.sublime_session",
+		"/C/Users/vacha/Google Drive/Python/untapped2/alembic/versions/5a0c84babf96_add_additional_untappd_column.py",
+		"/C/Users/vacha/Google Drive/Python/untapped2/misc/log3.txt",
+		"/C/Users/vacha/Google Drive/Python/untapped2/misc/ips5.txt",
+		"/C/Users/vacha/Google Drive/Python/newprojectmanager/newprojectmanager/static/mystyles.css",
+		"/C/Users/vacha/Google Drive/Python/newprojectmanager/newprojectmanager/clientmatter.py",
+		"/C/Users/vacha/Google Drive/Python/newprojectmanager/newprojectmanager/static/myjs.js",
+		"/C/Users/vacha/Google Drive/Python/newprojectmanager/newprojectmanager/templates/base.html",
+		"/C/Users/vacha/Google Drive/Python/newprojectmanager/newprojectmanager/templates/home/projects.html",
+		"/C/Users/vacha/Google Drive/Python/newprojectmanager/newprojectmanager/projects.py",
+		"/C/Users/vacha/Google Drive/Python/newprojectmanager/newprojectmanager/templates/home/home.html",
+		"/C/Users/vacha/Google Drive/Python/newprojectmanager/newprojectmanager/utils.py",
+		"/C/Users/vacha/Google Drive/Python/newprojectmanager/newprojectmanager/home.py",
+		"/C/Users/vacha/Google Drive/Python/newprojectmanager/newprojectmanager/static/dayjs.js",
+		"/C/Users/vacha/Google Drive/Python/GoogleChallenges/Challenges02/url.txt",
+		"/C/Users/vacha/Google Drive/Python/GoogleChallenges/Challenges02/02/instructions.txt",
+		"/C/Users/vacha/Google Drive/Python/GoogleChallenges/Challenges02/03/old_main.y.py",
+		"/C/Users/vacha/Google Drive/Python/GoogleChallenges/Challenges02/03/main.py",
+		"/C/Users/vacha/Google Drive/Python/GoogleChallenges/single use code for challenges",
+		"/C/Users/vacha/Google Drive/Python/newprojectmanager/.gitignore",
+		"/C/Users/vacha/Google Drive/Python/newprojectmanager/pyvenv-win.cfg",
+		"/C/Users/vacha/Google Drive/Python/RandomPictureWebsite/RandomPictureWebsite/templates/auth/restore.html",
+		"/C/Users/vacha/Google Drive/Python/RandomPictureWebsite/RandomPictureWebsite/templates/auth/verify.html",
+		"/C/Users/vacha/Google Drive/Python/RandomPictureWebsite/RandomPictureWebsite/templates/base.html",
+		"/C/Users/vacha/Google Drive/Python/RandomPictureWebsite/RandomPictureWebsite/templates/auth/login.html",
+		"/C/Users/vacha/Google Drive/Python/RandomPictureWebsite/RandomPictureWebsite/templates/auth/accountmanagement.html",
+		"/C/Users/vacha/Google Drive/Python/RandomPictureWebsite/RandomPictureWebsite/templates/home/home.html",
+		"/C/Users/vacha/Google Drive/Python/RandomPictureWebsite/RandomPictureWebsite/userdata_base.py",
+		"/C/Users/vacha/Google Drive/Python/RandomPictureWebsite/RandomPictureWebsite/utils.py",
+		"/C/Users/vacha/Google Drive/Python/newprojectmanager/flaskrvars.bat",
+		"/C/Users/vacha/Google Drive/Python/newprojectmanager/flaskvars.sh",
+		"/C/Users/vacha/Google Drive/Python/newprojectmanager/newprojectmanager/__init__.py",
+		"/C/Users/vacha/Google Drive/Python/newprojectmanager/newprojectmanager/base.py",
+		"/C/Users/vacha/Google Drive/Python/RandomPictureWebsite/RandomPictureWebsite/home.py",
+		"/C/Users/vacha/Google Drive/Python/RandomPictureWebsite/RandomPictureWebsite/pictures_base.py",
+		"/C/Users/vacha/Google Drive/Python/RandomPictureWebsite/RandomPictureWebsite/pictures.py",
+		"/C/Users/vacha/Google Drive/Python/RandomPictureWebsite/RandomPictureWebsite/db/singles_games.py",
+		"/C/Users/vacha/Google Drive/Python/RandomPictureWebsite/RandomPictureWebsite/setup.py",
+		"/C/Users/vacha/Google Drive/Python/RandomPictureWebsite/RandomPictureWebsite/userdata.py",
+		"/C/Users/vacha/Google Drive/Python/newprojectmanager/pyvenv-mac.cfg",
+		"/C/Users/vacha/Google Drive/Python/_flasktemplate/projectname/base.py",
+		"/C/Users/vacha/Google Drive/Python/_flasktemplate/projectname/__init__.py",
+		"/C/Users/vacha/Google Drive/Python/_flasktemplate/projectname/home.py",
+		"/C/Users/vacha/Google Drive/Python/_flasktemplate/readme.txt",
+		"/C/Users/vacha/Google Drive/Python/_flasktemplate/alembicdata.txt",
+		"/Users/michaelvacha/GoogleDrive/Python/RandomPictureWebsite/RandomPictureWebsite/csrf_token.py",
+		"/Users/michaelvacha/GoogleDrive/Python/RandomPictureWebsite/RandomPictureWebsite/userdata.py",
+		"/Users/michaelvacha/GoogleDrive/Python/RandomPictureWebsite/RandomPictureWebsite/home.py",
+		"/Users/michaelvacha/GoogleDrive/Python/RandomPictureWebsite/RandomPictureWebsite/templates/auth/accountmanagement.html",
+		"/Users/michaelvacha/GoogleDrive/Python/RandomPictureWebsite/RandomPictureWebsite/templates/admin/admin.html",
+		"/Users/michaelvacha/GoogleDrive/Python/RandomPictureWebsite/RandomPictureWebsite/auth.py",
+		"/Users/michaelvacha/GoogleDrive/Python/RandomPictureWebsite/RandomPictureWebsite/admin.py",
+		"/Users/michaelvacha/GoogleDrive/Python/RandomPictureWebsite/RandomPictureWebsite/sendemail.py",
+		"/Users/michaelvacha/GoogleDrive/Python/RandomPictureWebsite/RandomPictureWebsite/db/userdata_create_db.py",
+		"/Users/michaelvacha/GoogleDrive/Python/RandomPictureWebsite/RandomPictureWebsite/db/userdata_local.py",
+		"/Users/michaelvacha/GoogleDrive/Python/RandomPictureWebsite/RandomPictureWebsite/pictures.py",
+		"/Users/michaelvacha/GoogleDrive/Python/RandomPictureWebsite/RandomPictureWebsite/__init__.py",
+		"/Users/michaelvacha/GoogleDrive/Python/RandomPictureWebsite/RandomPictureWebsite/templates/auth/register.html",
+		"/Users/michaelvacha/GoogleDrive/Python/RandomPictureWebsite/RandomPictureWebsite/templates/auth/resetcomplete.html",
+		"/Users/michaelvacha/GoogleDrive/Python/RandomPictureWebsite/RandomPictureWebsite/templates/base.html",
+		"/Users/michaelvacha/GoogleDrive/Python/RandomPictureWebsite/RandomPictureWebsite/templates/auth/resetrequest.html",
+		"/Users/michaelvacha/GoogleDrive/Python/RandomPictureWebsite/RandomPictureWebsite/db/base_local.py",
+		"/Users/michaelvacha/GoogleDrive/Python/RandomPictureWebsite/RandomPictureWebsite/db/userdata_base.py",
+		"/Users/michaelvacha/GoogleDrive/Python/RandomPictureWebsite/RandomPictureWebsite/db/singles_games.py",
+		"/Users/michaelvacha/GoogleDrive/Python/RandomPictureWebsite/RandomPictureWebsite/db/doubles_games.py",
+		"/Users/michaelvacha/GoogleDrive/Python/RandomPictureWebsite/RandomPictureWebsite/foos.py",
+		"/Users/michaelvacha/GoogleDrive/Python/RandomPictureWebsite/RandomPictureWebsite/db/foos_base.py",
+		"/Users/michaelvacha/GoogleDrive/Python/RandomPictureWebsite/RandomPictureWebsite/db/players.py",
+		"/Users/michaelvacha/GoogleDrive/Python/RandomPictureWebsite/RandomPictureWebsite/db/foos_data_local.py",
+		"/Users/michaelvacha/GoogleDrive/Python/RandomPictureWebsite/RandomPictureWebsite/templates/foos/foos.html",
+		"/Users/michaelvacha/GoogleDrive/Python/RandomPictureWebsite/RandomPictureWebsite/templates/foosbase.html",
+		"/Users/michaelvacha/GoogleDrive/Python/RandomPictureWebsite/RandomPictureWebsite/templates/foos/foosbase.html",
+		"/Users/michaelvacha/GoogleDrive/Python/RandomPictureWebsite/RandomPictureWebsite/templates/home/foosbase",
+		"/Users/michaelvacha/GoogleDrive/Python/RandomPictureWebsite/RandomPictureWebsite/templates/home/home.html",
+		"/Users/michaelvacha/GoogleDrive/Python/RandomPictureWebsite/RandomPictureWebsite/templates/auth/login.html",
+		"/Users/michaelvacha/GoogleDrive/Python/_flasktemplate/readme.txt",
+		"/C/Users/vacha/Google Drive/Python/RandomPictureWebsite/readme.txt",
+		"/C/Users/vacha/Google Drive/Python/RandomPictureWebsite/flaskvars.sh",
+		"/C/Users/vacha/Google Drive/Python/RandomPictureWebsite/flaskrvars.bat",
+		"/C/Users/vacha/Desktop/file - very large.txt",
+		"/C/Users/vacha/Desktop/file - very large 2.txt",
+		"/C/Users/vacha/Downloads/bootstrap/js/bootstrap.bundle.min.js",
+		"/E/Misc Crap/Video Game Things/Game Saves/save paths.txt",
+		"/C/Users/vacha/Documents/Guacamelee2/LOCALSETTINGS.DAT",
+		"/C/Program Files (x86)/Steam/steamapps/common/Cave Story+/Profile.dat",
+		"/C/temp/aaa.dat",
+		"/C/temp/testfile04 - utf with bom.dat",
+		"/C/Users/vacha/Google Drive/Python/NBAStats/main2.py",
+		"/C/Users/vacha/Google Drive/Python/flasktest5/flaskr/__init__.py",
+		"/C/Users/vacha/Google Drive/Python/NBAStats/team.py",
+		"/C/Users/vacha/Google Drive/Python/NBAStats/base.py",
+		"/C/Users/vacha/Google Drive/Python/_flasktemplate/flaskrvars.bat",
+		"/C/Users/vacha/Google Drive/Python/NBAStats-Website/.gitignore",
+		"/C/Users/vacha/Google Drive/Python/NBAStats-Website/flaskrvars.bat",
+		"/C/Users/vacha/Google Drive/Python/NBAStats-Website/venv/Scripts/activate.bat",
+		"/C/Users/vacha/Google Drive/Python/flasktest6/.gitignore",
+		"/C/Users/vacha/Downloads/Serials.txt",
+		"/C/Users/vacha/Downloads/README.TXT",
+		"/C/Users/vacha/Google Drive/Python/NBAStats/nba_database.db-journal",
+		"/C/Users/vacha/Google Drive/Python/NBAStats/nbastats.sublime-project",
+		"/C/temp/20180804files.txt",
+		"/E/Misc Crap/Video Game Things/Game Saves/DeadCells/588650/remote/user_0.dat",
+		"/C/Users/vacha/Google Drive/Python/NBAStats/utils.py",
+		"/C/Users/vacha/Google Drive/Python/NBAStats/test_dict.txt",
+		"/C/Users/vacha/Google Drive/Python/NBAStats/temp/parserfromwork.py",
+		"/C/Users/vacha/Desktop/test/folder 02/another folder/a file.txt",
+		"/C/Users/vacha/Desktop/test/folder 02/another file.txt",
+		"/C/Users/vacha/Desktop/test/folder 01/whatever.txt",
+		"/C/Users/vacha/Google Drive/Python/NBAStats/game.py",
+		"/C/Users/vacha/Google Drive/Python/projectmanager3/main.py",
+		"/C/Users/vacha/Documents/Apps/snes classic stuff/ff4/7thsaga/7th Saga, The~/CLV-U-MBPDO/cartridge.sram",
+		"/C/Users/vacha/Downloads/app.smartsheet.com.har",
+		"/C/Users/vacha/Documents/Apps/snes classic stuff/ff4/Final Fantasy 4.1.frz",
+		"/C/Users/vacha/Google Drive/Python/projectmanager3/c_m_template.sublime-project",
+		"/C/Users/vacha/Google Drive/Python/flasktest4/flasktest4.sublime-project",
+		"/C/Users/vacha/Google Drive/Python/flasktest4/flasktest4/__init__.py",
+		"/C/Users/vacha/Google Drive/Python/flasktest4/flasktest4/page2.py",
+		"/C/Users/vacha/Google Drive/Python/flasktest4/__init__.py",
+		"/C/Users/vacha/Google Drive/Python/flasktest4/venv/Scripts/activate",
+		"/C/Users/vacha/Google Drive/Python/flasktest4/venv/Scripts/activate.ps1",
+		"/C/Users/vacha/Google Drive/Python/flasktest4/venv/Scripts/activate_this.py",
+		"/C/Users/vacha/Google Drive/Python/flasktest4/venv/Scripts/activate.bat"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"home"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "fakebrewery/app.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 281,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								243,
+								243
+							]
+						],
+						"settings":
+						{
+							"auto_name": "import flask",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "fakebrewery/views/beers.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 168,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								147,
+								132
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "fakebrewery/views/home.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 178,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								159,
+								159
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "fakebrewery/templates/base.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 585,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								152,
+								152
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "fakebrewery/templates/home/home.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 246,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								229,
+								229
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "fakebrewery/templates/beers/beers.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 260,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								244,
+								244
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 644.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "fakebreweryproject.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"load",
+				"C:\\Users\\Michael\\Google Drive\\Python\\LoadFileManipulator\\loadfilemanip.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"create_labels"
+			],
+			[
+				"create_la",
+				"create_labels"
+			],
+			[
+				"create",
+				"create_labels"
+			],
+			[
+				"create_lab",
+				"create_labels"
+			],
+			[
+				"amount",
+				"amountToIncrement"
+			],
+			[
+				"print",
+				"printHeaderFields"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 241.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
