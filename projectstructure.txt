@@ -4,13 +4,17 @@ homepage:
 		about (location, contact, etc)
 		faq
 		beers
-			beers on tap
-			all beers ever released
 		find our beer
 		events
 		blog
 
 	login link
+
+beers
+	beers on tap
+	crowlers
+	growlers
+	historical beers
 
 admin (depends on level of access)
 	add beer
@@ -39,6 +43,13 @@ databases:
 		currently in crowlers
 		currently in bottles
 		created by
+	glasses
+		glass name
+		glass description
+	styles
+		style name
+		glass type
+		style description
 	events
 		date
 		details
