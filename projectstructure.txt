@@ -33,22 +33,21 @@ databases:
 		access level
 	beers
 		beer name
-		style
+		style (foreign key)
 		abv
 		ibus
 		gravity
-		serving glass
 		description
 		currently on tap
 		currently in crowlers
 		currently in bottles
-		created by
+		image_url
 	glasses
 		glass name
 		glass description
 	styles
 		style name
-		glass type
+		glass type (foreign key)
 		style description
 	events
 		date

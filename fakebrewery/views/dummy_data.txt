@@ -1,0 +1,14 @@
+glass	Snifter	Used for stouts and barleywines						
+glass	Tulip	Used for IPAs, Belgians, and sours						
+glass	Pint	Used for blonde ales, red ales, and NE IPAs						
+style	Barleywine	Snifter	Shares some similarities with stouts?					
+style	Stout	Snifter	Tasty. Also, look, I know there are multiple types, but it's the thick, oily ones or bust.					
+style	IPA	Tulip	Generally fine, but there are too many of these. Also, not going to worry about New England or double or whatever for now.					
+style	Fruited Sour	Tulip	Generally more insteresting than IPAs. Not sure about the difference between this and, say, a wile ale.					
+style	Blonde Ale	Pint	Can't think of a good example of this.					
+beer	Mornin' Delight	12		Big stout from TG	TRUE	FALSE	FALSE	Stout
+beer	Threat Level Midnight	10.7		Barrel theory stout	TRUE	FALSE	TRUE	Stout
+beer	Pliny the Elder	8	100	Not the super-rare one	FALSE	TRUE	FALSE	IPA
+beer	90 Minute IPA	9	90	Haven't had it in a while	TRUE	TRUE	TRUE	IPA
+beer	Gummies Make Us Likeable	8	4	The first version of this beer?	TRUE	FALSE	FALSE	Fruited Sour
+beer	Fulton Street Blend	5.5	30	Don't think I ever had this one	FALSE	FALSE	FALSE	Blonde Ale

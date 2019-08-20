@@ -13,7 +13,8 @@ def db_init(db_path):
 	if Session:
 		return
 
-	engine = sa.create_engine("sqlite:///db/brewerydata.db", echo=True)
+	# engine = sa.create_engine("sqlite:///db/brewerydata.db", echo=True) # use for debugging
+	engine = sa.create_engine("sqlite:///db/brewerydata.db")
 	Session = orm.sessionmaker(bind=engine)
 	import fakebrewery.db.__all_db_classes
 	Base.metadata.create_all(engine)
