@@ -29,13 +29,13 @@ def register_blueprints():
 	from fakebrewery.views import home
 	app.register_blueprint(home.bp)
 
-	from views import beers
+	from fakebrewery.views import beers
 	app.register_blueprint(beers.bp)
 
-	from views import about
+	from fakebrewery.views import about
 	app.register_blueprint(about.bp)
 
-	from views import faq
+	from fakebrewery.views import faq
 	app.register_blueprint(faq.bp)
 
 if __name__ == "__main__":
