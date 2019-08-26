@@ -13,7 +13,6 @@ sys.path.insert(0, folder)
 
 import fakebrewery.db.db_utils as db_utils
 
-
 app = flask.Flask(__name__, instance_relative_config=True)
 
 def main():

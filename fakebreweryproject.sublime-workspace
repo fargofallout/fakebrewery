@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"ab",
+				"a_beer"
+			],
+			[
+				"ba",
+				"Base"
+			],
+			[
 				"col",
 				"color\tproperty"
 			],
@@ -146,10 +154,6 @@
 			[
 				"gri",
 				"grid-gap\tproperty"
-			],
-			[
-				"ba",
-				"background-color\tproperty"
 			],
 			[
 				"font-s",
@@ -510,10 +514,6 @@
 			[
 				"urlp",
 				"url_part_two"
-			],
-			[
-				"lit",
-				"list_item_list"
 			]
 		]
 	},
@@ -523,7 +523,7 @@
 			"file": "fakebrewery/app.py",
 			"settings":
 			{
-				"buffer_size": 281,
+				"buffer_size": 931,
 				"encoding": "UTF-8",
 				"line_ending": "Windows",
 				"name": "import flask"
@@ -542,7 +542,7 @@
 			"file": "fakebrewery/views/home.py",
 			"settings":
 			{
-				"buffer_size": 178,
+				"buffer_size": 2343,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -551,7 +551,7 @@
 			"file": "fakebrewery/templates/base.html",
 			"settings":
 			{
-				"buffer_size": 585,
+				"buffer_size": 964,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -560,7 +560,25 @@
 			"file": "fakebrewery/templates/home/home.html",
 			"settings":
 			{
-				"buffer_size": 246,
+				"buffer_size": 228,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "fakebrewery/templates/about/about.html",
+			"settings":
+			{
+				"buffer_size": 273,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "fakebrewery/templates/faq/faq.html",
+			"settings":
+			{
+				"buffer_size": 264,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -572,6 +590,96 @@
 				"buffer_size": 260,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "fakebrewery/db/glass.py",
+			"settings":
+			{
+				"buffer_size": 344,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "fakebrewery/db/style.py",
+			"settings":
+			{
+				"buffer_size": 488,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "fakebrewery/db/beer.py",
+			"settings":
+			{
+				"buffer_size": 816,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "import sqlalchemy as sa"
+			}
+		},
+		{
+			"file": "projectstructure.txt",
+			"settings":
+			{
+				"buffer_size": 871,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "fakebrewery/db/db_utils.py",
+			"settings":
+			{
+				"buffer_size": 802,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "fakebrewery/db/__all_db_classes.py",
+			"settings":
+			{
+				"buffer_size": 84,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "fakebrewery/db/base.py",
+			"settings":
+			{
+				"buffer_size": 72,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "fakebrewery/views/about.py",
+			"settings":
+			{
+				"buffer_size": 168,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "fakebrewery/views/faq.py",
+			"settings":
+			{
+				"buffer_size": 158,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/vacha/Downloads/bootstrap-4.3.1-dist/css/bootstrap.css",
+			"settings":
+			{
+				"buffer_size": 192348,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -761,10 +869,21 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/vacha/Documents/Python/fakebrewery"
+		"/C/Users/vacha/Documents/Python/fakebrewery",
+		"/C/Users/vacha/Documents/Python/fakebrewery/fakebrewery",
+		"/C/Users/vacha/Documents/Python/fakebrewery/fakebrewery/db",
+		"/C/Users/vacha/Documents/Python/fakebrewery/fakebrewery/static",
+		"/C/Users/vacha/Documents/Python/fakebrewery/fakebrewery/views"
 	],
 	"file_history":
 	[
+		"/C/Users/vacha/Documents/Python/fakebrewery/fakebrewery/static/bootstrap.min.css",
+		"/C/Users/vacha/Documents/Python/fakebrewery/fakebrewery/db/beer.py",
+		"/C/Users/vacha/Documents/Python/fakebrewery/venv/Lib/site-packages/pip/_vendor/colorama/ansi.py",
+		"/C/Users/vacha/Documents/Python/fakebrewery/fakebrewery/views/dummy_data.txt",
+		"/C/Users/vacha/Downloads/combined.txt",
+		"/C/Users/vacha/Documents/Python/fakebrewery/flaskrvars.bat",
+		"/C/Users/vacha/Documents/Python/fakebrewery/fakebrewery/db/__all_db_classes.py",
 		"/C/Users/vacha/Documents/Python/fakebrewery/fakebrewery/views/beers/beers.py",
 		"/C/Users/vacha/Documents/Python/fakebrewery/fakebrewery/views/home/home.py",
 		"/C/Users/vacha/Documents/Python/fakebrewery/fakebrewery/views/home.py",
@@ -885,18 +1004,11 @@
 		"/C/Users/vacha/Downloads/app.smartsheet.com.har",
 		"/C/Users/vacha/Documents/Apps/snes classic stuff/ff4/Final Fantasy 4.1.frz",
 		"/C/Users/vacha/Google Drive/Python/projectmanager3/c_m_template.sublime-project",
-		"/C/Users/vacha/Google Drive/Python/flasktest4/flasktest4.sublime-project",
-		"/C/Users/vacha/Google Drive/Python/flasktest4/flasktest4/__init__.py",
-		"/C/Users/vacha/Google Drive/Python/flasktest4/flasktest4/page2.py",
-		"/C/Users/vacha/Google Drive/Python/flasktest4/__init__.py",
-		"/C/Users/vacha/Google Drive/Python/flasktest4/venv/Scripts/activate",
-		"/C/Users/vacha/Google Drive/Python/flasktest4/venv/Scripts/activate.ps1",
-		"/C/Users/vacha/Google Drive/Python/flasktest4/venv/Scripts/activate_this.py",
-		"/C/Users/vacha/Google Drive/Python/flasktest4/venv/Scripts/activate.bat"
+		"/C/Users/vacha/Google Drive/Python/flasktest4/flasktest4.sublime-project"
 	],
 	"find":
 	{
-		"height": 24.0
+		"height": 39.0
 	},
 	"find_in_files":
 	{
@@ -910,6 +1022,14 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"inne",
+			"dropdown-togg",
+			"dropdow",
+			"navbar_content",
+			"db_session",
+			"about",
+			"faq",
+			"about",
 			"home"
 		],
 		"highlight": true,
@@ -928,7 +1048,7 @@
 	"groups":
 	[
 		{
-			"selected": 5,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -937,15 +1057,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 281,
+						"buffer_size": 931,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								243,
-								243
+								535,
+								535
 							]
 						],
 						"settings":
@@ -957,7 +1077,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -973,8 +1093,381 @@
 						"selection":
 						[
 							[
-								147,
-								132
+								168,
+								168
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 15.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "fakebrewery/views/home.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2343,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1417,
+								1417
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "fakebrewery/templates/base.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 964,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								348,
+								348
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "fakebrewery/templates/home/home.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 228,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								211,
+								211
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "fakebrewery/templates/about/about.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 273,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								256,
+								256
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "fakebrewery/templates/faq/faq.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 264,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								152,
+								152
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "fakebrewery/templates/beers/beers.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 260,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								260,
+								260
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 8,
+					"file": "fakebrewery/db/glass.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 344,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								184,
+								194
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "fakebrewery/db/style.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 488,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								183,
+								193
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "fakebrewery/db/beer.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 816,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								519,
+								519
+							]
+						],
+						"settings":
+						{
+							"auto_name": "import sqlalchemy as sa",
+							"history_list_is_closing": true,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "projectstructure.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 871,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								640,
+								640
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "fakebrewery/db/db_utils.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 802,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								343,
+								343
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "fakebrewery/db/__all_db_classes.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 84,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								77,
+								82
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "fakebrewery/db/base.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 72,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								49,
+								49
 							]
 						],
 						"settings":
@@ -989,20 +1482,20 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "fakebrewery/views/home.py",
+					"buffer": 15,
+					"file": "fakebrewery/views/about.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 178,
+						"buffer_size": 168,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								159,
-								159
+								41,
+								41
 							]
 						],
 						"settings":
@@ -1013,58 +1506,29 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "fakebrewery/templates/base.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 585,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								152,
-								152
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
 					"stack_index": 5,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "fakebrewery/templates/home/home.html",
+					"buffer": 16,
+					"file": "fakebrewery/views/faq.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 246,
+						"buffer_size": 158,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								229,
-								229
+								39,
+								39
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
+							"syntax": "Packages/Python/Python.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1074,31 +1538,33 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
-					"file": "fakebrewery/templates/beers/beers.html",
+					"buffer": 17,
+					"file": "/C/Users/vacha/Downloads/bootstrap-4.3.1-dist/css/bootstrap.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 260,
+						"buffer_size": 192348,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								244,
-								244
+								29190,
+								29198
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 27224.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 3,
 					"type": "text"
 				}
 			]
@@ -1121,11 +1587,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.5,
 			1.0
 		],
 		"rows":
@@ -1157,6 +1630,18 @@
 		"selected_items":
 		[
 			[
+				"css",
+				"fakebrewery\\static\\bootstrap.min.css"
+			],
+			[
+				"home",
+				"fakebrewery\\templates\\home\\home.html"
+			],
+			[
+				"bee",
+				"fakebrewery\\views\\beers.py"
+			],
+			[
 				"load",
 				"C:\\Users\\Michael\\Google Drive\\Python\\LoadFileManipulator\\loadfilemanip.py"
 			]
@@ -1178,6 +1663,14 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"beer",
+				"Beer"
+			],
+			[
+				"forw",
+				"FORWARD"
+			],
 			[
 				"",
 				"create_labels"

@@ -1,0 +1,13 @@
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+.row {
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+body > .container {
+    margin-left: 0px;
+    margin-right: 0px;
+}
