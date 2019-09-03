@@ -7,8 +7,9 @@
 	<title>
 		{% block title %}{% endblock %}
 	</title>
-	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='bootstrap.min.css') }}">
-	<link rel="stylesheet" type="text/css" href="/static/styles.css">
+	<!-- <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='bootstrap.min.css') }}"> -->
+	<!-- <link rel="stylesheet" type="text/css" href="/static/styles.css"> -->
+	<link rel="stylesheet" type="text/css" href="/static/newstyles.css">
 	<!-- <script type="text/javascript" src="{{ url_for('static', filename='jquery.js') }}"> </script> -->
 	<!-- <script type="text/javascript" src="{{ url_for('static', filename='bootstrap.js') }}"> </script> -->
 
@@ -16,29 +17,20 @@
 
 <body>
 	<!-- navbar -->
-	<div class="container">
-		<div class="row">
-			<div class="col-sm">
-				<span class="dropdown">
-					<a href="#" data-toggle="dropdown" class="dropdown-toggle">Menu<b class="caret"></b></a>
-					<ul class="dropdown-menu">
-						<li><a href="/home">Home</a></li>
-						<li><a href="/about">About</a></li>
-						<li><a href="/faq">FAQ</a></li>
-						<li><a href="#">Blog</a></li>
-					</ul>
-				</span>					
-			</div>
-			<div class="col-md">
-				Middle section?
-			</div>
-			<div class="col-md">
-				Search bar?
-			</div>
-		</div>
-	</div>
-	</nav>
+	<div class="grid-container">
+		<header class="navbar bg-light-grey">
+			<span class="dropdown">
+				<a href="#" data-toggle="dropdown" class="dropdown-toggle">Menu<b class="caret"></b></a>
+				<ul class="dropdown-menu">
+					<li><a href="/home">Home</a></li>
+					<li><a href="/about">About</a></li>
+					<li><a href="/faq">FAQ</a></li>
+					<li><a href="#">Blog</a></li>
+				</ul>
+			</span>					
+		</header>
 	{% block body %}
 	{% endblock %}
+	</div>
 </body>
 </html>

@@ -1,0 +1,219 @@
+
+/*notes:
+
+browsers consider classes and IDs to be basically the same?
+IDs: should be unique
+classes: are used all over the place to make things look the same
+. notation makes classes - for instance, .whatever makes a class called whatever
+padding is distance between the item and the border
+margin is the distance between the border and the adjacent items
+for margin, border, and padding, you can do 5px 10px 5px 10px, which is rop, right, bottom, left
+or you can do 5px 10px, which means top and bottom are 5, right and left are 10
+
+classes can be mixed with tags - .box-1 h1 would only apply to h1 tags that appear within box-1
+
+*/
+body {
+	background-color: #f5f5f5;
+	font-family: Helvetica, Arial;
+	font-size: 16px;
+	/* padding: 1em; */
+	margin: auto;
+	/*width: 80%;*/
+	line-height: 1.8;
+}
+
+a {
+	text-decoration: none;
+	color: #2817ee;
+}
+
+/* putting a colon after the tag seems to affect a state of the tag */
+a:hover {
+	color: #11aa22;
+}
+
+table {
+	width: 100%;
+	margin: auto;
+}
+
+.grid-container {
+	display: grid;
+	grid-template-columns: 1fr 4fr;
+	grid-template-rows: 20% 8fr 1fr;
+	grid-gap: 10px;
+}
+
+.navbar {
+	grid-row: 1 / span 1;
+	grid-column: 1 / span 2;
+	margin: 0px;
+	background-clip: border-box;
+	padding: 1em;
+	position: sticky;
+	top: 0;
+}
+
+.sidebar {
+	grid-column: 1 / span 1;
+	grid-row: 2 / span 1;
+}
+
+.main-content {
+	grid-row: 2 / span 1;
+	grid-column: 2 / span 1;
+}
+
+.main-content-no-cols {
+	grid-row: 2 / span 1;
+	grid-column: 1 / span 2;
+	padding: 15px;
+	background-image: url('images/background.jpg');
+	background-repeat: no-repeat;
+	background-color: transparent;
+}
+
+.footer {
+	grid-row: 3 / span 1;
+	grid-column: 1 / span 2;
+}
+
+.main-content-no-cols h2 {
+	text-align: center;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/*.grid1-4 {
+	display: grid;
+	grid-template-columns: 1fr 4fr;
+	grid-column-gap: 2em;
+	grid-auto-rows: minmax(100px, auto);
+}
+
+.grid4-1 {
+	display: grid;
+	grid-template-columns: 4fr 1fr;
+	grid-column-gap: 2em;
+	grid-auto-rows: minmax(100px, auto);
+}
+*/
+/*.navbar {
+	display: grid;
+
+}
+*/
+/*.sidebar {
+	height: 100%;
+	width: 30%;
+	position: fixed;
+	z-index: 1;
+	top: 0;
+	left: 0;
+	overflow-x: hidden;
+}*/
+
+.table-border {
+	/*background-color: #c7c7c7;*/
+	padding: 5px 3px;
+	border: 2px #444444 solid;
+	border-collapse: collapse;
+	text-align: center;
+}
+
+.table-no-border {
+	padding: 5px 3px;
+	border-collapse: collapse;
+}
+
+.shaded-header {
+	background-color: #c7c7c7
+}
+
+tr:nth-child(even) {
+	background-color: #c7c7c7;
+}
+
+.list-items-border {
+	border: 1px #cccccc solid;
+	padding: 10px;
+	border-radius: 20px;
+}
+
+.bg-blue {
+	background-color: #2817ee;
+}
+
+.bg-green {
+	background-color: #22bb22;
+}
+
+.bg-purple {
+	background-color: #6857cc;
+}
+
+.bg-light-grey {
+	background-color: #cccccc;
+}
+
+.bg-dark-grey {
+	background-color: #555555;
+}
+
+.font-white {
+	color: #ffffff;
+}
+
+.font-red {
+	color: #ff3333;
+}
+
+.font-purple {
+	color: #6857cc;
+}
+
+.dropdown-toggle {
+	white-space: nowrap;
+	padding: 30px 30px 30px 10px;
+  }
+  
+  .dropdown-toggle::after {
+	display: inline-block;
+	margin-left: 0.255em;
+	vertical-align: 0.255em;
+	content: "";
+	border-top: 0.3em solid;
+	border-right: 0.3em solid transparent;
+	border-bottom: 0;
+	border-left: 0.3em solid transparent;
+  }
+  
+  .dropdown-toggle:empty::after {
+	margin-left: 0;
+  }
+  
+  .dropdown-menu {
+	position: absolute;
+	top: 80%;
+	left: 0;
+	z-index: 1000;
+	display: none;
+	float: left;
+	min-width: 10rem;
+	padding: 0.5rem 0;
+	margin: 0.125rem 0 0;
+	font-size: 1rem;
+	color: #212529;
+	text-align: left;
+	list-style: none;
+	background-color: #fff;
+	background-clip: padding-box;
+	border: 1px solid rgba(0, 0, 0, 0.15);
+	border-radius: 0.25rem;
+  }
+  
+  .dropdown:hover .dropdown-menu {
+	display: block;
+	margin-left: 20px;
+	padding-left: 25px;
+}
